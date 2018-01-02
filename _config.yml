@@ -1,2 +1,3 @@
 name: haefftig, Web-Dev in the making
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
